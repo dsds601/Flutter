@@ -34,7 +34,7 @@
 --- 
 * mainAxisAlignment : 주축 정렬
 ### Row and Column
-<a href="lib/screen/home_screen.dart"> Column Example Code</a></br>
+<a href="lib/prc_screen/home_screen.dart"> Column Example Code</a></br>
 * SafeArea : 핸드폰내에 컨텐츠 칸만 차지하도록 설정하는 Container
 * MainAxisAlignment : 주축 정렬
   * start :시작 , end : 끝 , center : 가운데 , spaceBetween : 위젯과 위젯 사이 동일하게 배치 , <br/>
@@ -53,7 +53,7 @@
 * Flexible는 기본적으로 Expanded랑 비슷하지만 비율에 남는 공간은 채우지 않고 그대로 두게 됩니다.
 
 ### WebView 3 version
-<a href='lib/screen/home_screen_webview.dart'>WebView Code</a>
+<a href='lib/prc_screen/home_screen_webview.dart'>WebView Code</a>
 * webView 적용법
 ~~~
 return Scaffold(
@@ -95,7 +95,7 @@ return Scaffold(
     ~~~
 
 ### StatefulWidget
-<a href='lib/screen/statefull_widget.dart'>Code Example</a>
+<a href='lib/prc_screen/statefull_widget.dart'>Code Example</a>
 * 두개의 클래스로 구성이 되어있습니다.
 
 * Widget 이론
